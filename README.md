@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm umar</h1>
+<h1 align="center">Hi 👋, I'm ANEEQA</h1>
 <h3 align="center">🚀 Software Engineer | Full-Stack Web Developer</h3>
 
 <p align="center">
